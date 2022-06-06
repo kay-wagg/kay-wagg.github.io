@@ -1,6 +1,10 @@
-Crafting Digital History Static Site 
+Crafting Digital History Journals 
 
-This is a site I build with gh-pages. **Wow**
+
+- Part One of the course focused on **contextualizing** digital history
+- Part Two encouraged us to **wrangle** with digital history and its contents
+- In Part Three we've been **arguing** with digital history, such as static websites  like *the one you're reading this on!!*
+- Part Four will bring with it **communicating** digital history.
 
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
